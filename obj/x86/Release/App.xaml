@@ -1,0 +1,19 @@
+﻿<Application
+    x:Class="Edatalia_signplyRT.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Edatalia_signplyRT"
+    xmlns:converter="using:Edatalia_signplyRT.Converters">
+    <Application.Resources>
+        <x:String x:Key="AppName">eContrato</x:String>
+        <!--<SolidColorBrush x:Key="ApplicationPageEdataliaBackgroundThemeBrush" Color="#14145A" />-->
+        <ImageBrush x:Key="ApplicationPageEdataliaBackgroundThemeBrush" Stretch="None" ImageSource="Assets/KNV29.jpg" AlignmentY="Top" AlignmentX="Center"/>
+        <!--<SolidColorBrush x:Key="ApplicationPageEdataliaBackgroundThemeBrush" Color="#14145A"/>-->
+
+        <converter:IntToStringConverter x:Key="IntToStringConverter"/>
+        <converter:LangEnumToIntConverter x:Key="LangEnumToIntConverter"/>
+        
+
+    </Application.Resources>
+</Application>
+

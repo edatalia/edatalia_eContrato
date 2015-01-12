@@ -1,0 +1,86 @@
+﻿<UserControl
+    x:Class="Edatalia_signplyRT.AudioRecordUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Edatalia_signplyRT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="600"
+    d:DesignWidth="800">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="Assets/recordingbackground.png" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+
+        <Grid  HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Vertical" Width="550">
+                <TextBlock Grid.Row="0" x:Name="tbContractData" Text="prueba" FontSize="26" TextWrapping="Wrap" Foreground="White"></TextBlock>
+            </StackPanel>
+            
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="1" >
+                <!--<AppBarButton Height="150" Width="150" x:Name="btStartRecording" Label="Grabar" Click="AppBarButtonStartRecording_Click" IsEnabled="True">
+                    <Path Width="28.5" Height="38" Canvas.Left="23.75" Canvas.Top="19.0001" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,19.0001C 41.4978,19.0001 44.3333,21.8356 44.3333,25.3334L 44.3333,36.4167C 44.3333,39.9145 41.4978,42.75 38,42.75C 34.5022,42.75 31.6666,39.9145 31.6666,36.4167L 31.6666,25.3334C 31.6666,21.8356 34.5022,19.0001 38,19.0001 Z M 30.0833,52.25L 34.8333,52.25L 34.8333,50.3136C 28.4874,48.8736 23.75,43.1984 23.75,36.4167L 23.75,31.6667L 28.5,31.6667L 28.5,36.4167C 28.5,41.6634 32.7533,45.9167 38,45.9167C 43.2467,45.9167 47.5,41.6634 47.5,36.4167L 47.5,31.6667L 52.25,31.6667L 52.25,36.4167C 52.25,43.1984 47.5126,48.8736 41.1667,50.3136L 41.1667,52.25L 45.9167,52.25L 45.9167,57L 30.0833,57L 30.0833,52.25 Z "/>
+                </AppBarButton>-->
+               
+                <Button Height="150" Width="150" x:Name="btStartRecording" Click="AppBarButtonStartRecording_Click">
+                    <Button.Content>
+                        <PathIcon Data="M1,61.8375015258789L1,45.52490234375 1.52501749992371,43.7811508178711 3.09991502761841,43.1999015808105 6.21269989013672,43.1999015808105 7.70315027236938,43.7905502319336 8.20000076293945,45.5624465942383 8.20000076293945,62.2875022888184 8.64414978027344,66.2109375 9.97659397125244,69.9937515258789 12.1973285675049,73.6359329223633 15.3063497543335,77.1374969482422 19.4020729064941,80.1398468017578 24.5829181671143,82.2843780517578 30.8488941192627,83.5710906982422 38.2000007629395,84 45.626091003418,83.5640640258789 52.1170272827148,82.2562484741211 57.6728248596191,80.0765609741211 62.2935028076172,77.0250015258789 65.927734375,73.48828125 68.5234985351563,69.8531265258789 70.0808868408203,66.1195297241211 70.5999984741211,62.2875022888184 70.5999984741211,45.5624465942383 71.125,43.7905502319336 72.6999969482422,43.1999015808105 75.6999969482422,43.1999015808105 77.21875,43.7811508178711 77.7999954223633,45.52490234375 77.7999954223633,61.8375015258789 77.2621383666992,67.1296920776367 75.6484985351563,72.1312484741211 72.9589767456055,76.8421859741211 69.1934967041016,81.2625045776367 64.404296875,85.08984375 58.6422538757324,88.0218734741211 51.9074745178223,90.05859375 44.2000503540039,91.1999969482422 44.2000503540039,108 58.7124977111816,108 60.3718757629395,108.590621948242 61,110.362503051758 61,117.637496948242 60.4187507629395,119.409378051758 58.6749992370605,120 17.7251510620117,120 16.0375385284424,119.409378051758 15.4000005722046,117.637496948242 15.4000005722046,110.362503051758 15.97194480896,108.590621948242 17.6875991821289,108 32.2002487182617,108 32.2002487182617,91.1999969482422 25.0552539825439,90.05859375 18.8079261779785,88.0218734741211 13.4582710266113,85.08984375 9.00629997253418,81.2625045776367 5.50354099273682,76.8421859741211 3.00157260894775,72.1312484741211 1.50039279460907,67.1296920776367 1,61.8375015258789z M20.2001495361328,62.2875022888184L20.2001495361328,43.1999015808105 56.2000007629395,43.1999015808105 56.2000007629395,62.2875022888184 55.9293365478516,64.0839462280273 55.1173133850098,65.7983169555664 53.7638854980469,67.4306488037109 51.8690032958984,68.9810028076172 49.3903388977051,70.3017425537109 46.2859687805176,71.2451858520508 42.5558662414551,71.8112869262695 38.2000007629395,72 33.7374687194824,71.8112869262695 29.9500293731689,71.2451858520508 26.8375625610352,70.3017425537109 24.3999481201172,68.9810028076172 22.5625,67.4306488037109 21.2500686645508,65.7983169555664 20.46262550354,64.0839462280273 20.2001495361328,62.2875022888184z M20.2001495361328,35.9999008178711L20.2001495361328,9.86235046386719 20.46262550354,8.04598045349121 21.2500686645508,6.30929374694824 22.5625,4.65228509902954 24.3999481201172,3.0749499797821 26.8375625610352,1.72963893413544 29.9500293731689,0.768719375133514 33.7374687194824,0.192177578806877 38.2000007629395,0 42.5558662414551,0.192177578806877 46.2859687805176,0.768719375133514 49.3903388977051,1.72963893413544 51.8690032958984,3.0749499797821 53.7638854980469,4.65228509902954 55.1173133850098,6.30929374694824 55.9293365478516,8.04598045349121 56.2000007629395,9.86235046386719 56.2000007629395,35.9999008178711 20.2001495361328,35.9999008178711z"/>
+                    </Button.Content>
+                </Button>
+                <Button Height="150" Width="150" Margin="20" x:Name="btStopRecording"  Click="AppBarButtonStopRecording_Click" IsEnabled="False">
+                    <Button.Content>
+                        <Rectangle x:Name="stopRectangle" Width="100"  Height="100" Canvas.Left="23.75" Canvas.Top="23.75" Stretch="Fill" Fill="Gray"/>
+                    </Button.Content>
+                </Button>
+
+                <!--<AppBarButton Height="150" Width="150" x:Name="btStopRecording"  Icon="Stop" Label="Stop" Click="AppBarButtonStopRecording_Click" IsEnabled="False"/>-->
+            </StackPanel>
+            <ProgressRing Grid.Row="2" x:Name="pgrRecording" Height="50" Width="50" Foreground="Red" IsActive="False" Visibility="Collapsed"></ProgressRing>
+            <MediaElement  x:Name='playbackElement' Grid.Row="2" Width="160"  Height="120" Margin="10,5,10,5"/>
+            <Grid Grid.Row="3" HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button  Grid.Column="0" Height="75" Width="75"  x:Name="btAcceptRecording" Click="AppBarButtonAcceptRecording_Click" IsEnabled="False">
+                    <Button.Content>
+                        <PathIcon Margin="-20,-15,0,0" Data="M21.3124656677246,20.3124656677246L55.6875305175781,20.3124656677246 55.6875305175781,54.6875305175781 46.3125305175781,54.6875305175781 46.3125305175781,43.7499694824219 30.6874656677246,43.7499694824219 30.6874656677246,54.6875305175781 21.3124656677246,54.6875305175781 21.3124656677246,20.3124656677246z M33.8125,54.6875305175781L33.8125,50.0000305175781 40.0624694824219,50.0000305175781 40.0624694824219,54.6875305175781 33.8125,54.6875305175781z M27.5625324249268,23.4375L27.5625324249268,32.8125 49.4374694824219,32.8125 49.4374694824219,23.4375 27.5625324249268,23.4375z"/>
+                    </Button.Content>
+                </Button>
+
+                <!--<AppBarButton x:Name="btAcceptRecording" Icon="Accept" Label="Aceptar" Click="AppBarButtonAcceptRecording_Click" IsEnabled="False"></AppBarButton>-->
+                <!--<AppBarButton x:Name="btRejectRecording"  Icon="Cancel" Label="Cancelar" Click="AppBarButtonRejectRecording_Click" IsEnabled="True"></AppBarButton>-->
+                <Button Grid.Column="2" Height="75" Width="75" Margin="15"  x:Name="btRejectRecording"  Click="AppBarButtonRejectRecording_Click">
+                    <Button.Content>
+                        <PathIcon Margin="-25,-15,0,0" Data="F1 M 26.9166,22.1667L 37.9999,33.25L 49.0832,22.1668L 53.8332,26.9168L 42.7499,38L 53.8332,49.0834L 49.0833,53.8334L 37.9999,42.75L 26.9166,53.8334L 22.1666,49.0833L 33.25,38L 22.1667,26.9167L 26.9166,22.1667 Z"/>
+                    </Button.Content>
+                </Button>
+            </Grid>
+            <!--<StackPanel Orientation="Horizontal" Grid.Row="3" >
+                <Button Height="75" Width="75"  x:Name="btAcceptRecording" Click="AppBarButtonAcceptRecording_Click" IsEnabled="False">
+                    <Button.Content>
+                        <PathIcon Margin="-20,-15,0,0" Data="M21.3124656677246,20.3124656677246L55.6875305175781,20.3124656677246 55.6875305175781,54.6875305175781 46.3125305175781,54.6875305175781 46.3125305175781,43.7499694824219 30.6874656677246,43.7499694824219 30.6874656677246,54.6875305175781 21.3124656677246,54.6875305175781 21.3124656677246,20.3124656677246z M33.8125,54.6875305175781L33.8125,50.0000305175781 40.0624694824219,50.0000305175781 40.0624694824219,54.6875305175781 33.8125,54.6875305175781z M27.5625324249268,23.4375L27.5625324249268,32.8125 49.4374694824219,32.8125 49.4374694824219,23.4375 27.5625324249268,23.4375z"/>
+                    </Button.Content>
+                </Button>
+                
+                --><!--<AppBarButton x:Name="btAcceptRecording" Icon="Accept" Label="Aceptar" Click="AppBarButtonAcceptRecording_Click" IsEnabled="False"></AppBarButton>-->
+                <!--<AppBarButton x:Name="btRejectRecording"  Icon="Cancel" Label="Cancelar" Click="AppBarButtonRejectRecording_Click" IsEnabled="True"></AppBarButton>--><!--
+                <Button Height="75" Width="75" Margin="15"  x:Name="btRejectRecording"  Click="AppBarButtonRejectRecording_Click" IsEnabled="False">
+                    <Button.Content>
+                        <PathIcon Margin="-25,-15,0,0" Data="F1 M 26.9166,22.1667L 37.9999,33.25L 49.0832,22.1668L 53.8332,26.9168L 42.7499,38L 53.8332,49.0834L 49.0833,53.8334L 37.9999,42.75L 26.9166,53.8334L 22.1666,49.0833L 33.25,38L 22.1667,26.9167L 26.9166,22.1667 Z"/>
+                    </Button.Content>
+                </Button>
+            </StackPanel>-->
+        </Grid>
+    </Grid>
+</UserControl>

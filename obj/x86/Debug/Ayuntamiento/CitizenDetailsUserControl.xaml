@@ -1,0 +1,84 @@
+﻿<UserControl
+    x:Class="Edatalia_signplyRT.Ayuntamiento.CitizenDetailsUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Edatalia_signplyRT.Ayuntamiento"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenDNI" x:Uid="tbCitizenDNI" Text="{Binding DNI, Mode=TwoWay}" Grid.Column="0"  Header="NAN, AIZ edo IFK zk/Nº DNI, NIE o CIF"></TextBox>
+                <TextBox x:Name="tbCitizenName" x:Uid="tbCitizenName" Margin="10,0,0,0" Grid.Column="1"  Header="Nombre, Razón Social o denominación de la Entidad" Text="{Binding Name, Mode=TwoWay}"></TextBox>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenFirstName" x:Uid="tbCitizenFirstName" Text="{Binding FirstName, Mode=TwoWay}" Grid.Column="0"  Header="Primer Apellido"></TextBox>
+                <TextBox x:Name="tbCitizenSecondName" x:Uid="tbCitizenSecondName" Text="{Binding SecondName, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Segundo Apellido"></TextBox>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenNationality" x:Uid="tbCitizenNationality" Text="{Binding Nationality, Mode=TwoWay}" Grid.Column="0"  Header="Nazionalitatea/Nacionalidad"></TextBox>
+                <TextBox x:Name="tbCitizenPassport" x:Uid="tbCitizenPassport" Text="{Binding PassportNumber, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Pasaporte zk/Nº Pasaporte"></TextBox>
+                <ComboBox x:ConnectionId='1' x:Name="lbCommunicationLanguage" x:Uid="lbCommunicationLanguage" SelectedIndex="{Binding ComLanguage, Mode=TwoWay, Converter={StaticResource LangEnumToIntConverter}}"                                                              Header="Komunikatzeko hizkuntza/Idioma comunicación" Margin="10,0,0,0" Grid.Column="2" >
+                    <ComboBoxItem>Euskera</ComboBoxItem>
+                    <ComboBoxItem>Castellano</ComboBoxItem>
+                </ComboBox>
+            </Grid>
+            <TextBox x:Name="tbCitizenStreet" x:Uid="tbCitizenStreet" Text="{Binding Street, Mode=TwoWay}"   Header="Kalea/Calle"></TextBox>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenNumber" x:Uid="tbCitizenNumber" Text="{Binding Number, Mode=TwoWay, Converter={StaticResource IntToStringConverter}}" Grid.Column="0" Header="Atari zk/Nº Portal" InputScope="Number"></TextBox>
+                <TextBox x:Name="tbCitizenBis" x:Uid="tbCitizenBis" Text="{Binding Bis, Mode=TwoWay}" Grid.Column="1" Margin="10,0,0,0"  Header="Bis/Bis"></TextBox>
+                <TextBox x:Name="tbCitizenStaircase" x:Uid="tbCitizenStaircase" Text="{Binding Staircase, Mode=TwoWay}" Grid.Column="2" Margin="10,0,0,0" Header="Eskailera/Escalera"></TextBox>
+                <TextBox x:Name="tbCitizenFloor" x:Uid="tbCitizenFloor" Text="{Binding Floor, Mode=TwoWay}" Grid.Column="3" Margin="10,0,0,0" Header="Solairua/Planta" InputScope="Number"></TextBox>
+                <TextBox x:Name="tbCitizenHand" x:Uid="tbCitizenHand" Text="{Binding Hand, Mode=TwoWay}" Grid.Column="4" Margin="10,0,0,0" Header="Aldea/Mano"></TextBox>
+                <TextBox x:Name="tbCitizenDoor" x:Uid="tbCitizenDoor" Text="{Binding Door, Mode=TwoWay}" Grid.Column="5" Margin="10,0,0,0" Header="Atea/Puerta"></TextBox>            
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenCountry" x:Uid="tbCitizenCountry" Text="{Binding Country, Mode=TwoWay}"  Grid.Column="0"  Header="Herrialdea, probintzia edo Lurralde historikoa/Pais, Provincia o Territorio Historico"></TextBox>
+                <TextBox x:Name="tbCitizenCity" x:Uid="tbCitizenCity" Text="{Binding City, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Udalerria/Municipio"></TextBox>
+                <TextBox x:Name="tbCitizenPostalCode" x:Uid="tbCitizenPostalCode" Text="{Binding PostalCode, Mode=TwoWay, Converter={StaticResource IntToStringConverter}}"  Grid.Column="2" Margin="10,0,0,0"  Header="Posta kodea/Código Postal" InputScope="Number"></TextBox>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbCitizenPhone" x:Uid="tbCitizenPhone" Text="{Binding Telephone, Mode=TwoWay}"  Grid.Column="0"  Header="Telefonoa/Teléfono" InputScope="TelephoneNumber"></TextBox>
+                <TextBox x:Name="tbCitizenMobilePhone" x:Uid="tbCitizenMobilePhone" Text="{Binding MobilePhone, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Sakelako telefonoa/Teléfono movil" InputScope="TelephoneNumber"></TextBox>
+                <TextBox x:Name="tbCitizenEmail" x:Uid="tbCitizenEmail" Text="{Binding Mail, Mode=TwoWay}"  Grid.Column="2" Margin="10,0,0,0" Header="Posta elektronikoa/Correo electronico (e-mail)" InputScope="EmailSmtpAddress"></TextBox>
+            </Grid>
+          </StackPanel>
+
+    </Grid>
+</UserControl>
+

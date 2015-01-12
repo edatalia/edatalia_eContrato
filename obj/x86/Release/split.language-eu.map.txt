@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-eu"
+"ResourceDimensions"		"language-eu-es"
+
+[Files]
+"C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\obj\x86\Release\split.language-eu.pri"			"resources.pri"

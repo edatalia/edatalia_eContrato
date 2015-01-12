@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="appbtnCancelSign.Label" xml:space="preserve">
+    <value>Limpiar Firma</value>
+  </data>
+  <data name="appbtnConfirm.Label" xml:space="preserve">
+    <value>Confirmar solicitud</value>
+  </data>
+  <data name="appbtnDNIPhoto.Label" xml:space="preserve">
+    <value>Adjuntar DNI</value>
+  </data>
+  <data name="appbtnOpen.Label" xml:space="preserve">
+    <value>Seleccionar modelo</value>
+  </data>
+  <data name="appbtnPhoto.Label" xml:space="preserve">
+    <value>Adjuntar foto</value>
+  </data>
+  <data name="appbtnPosSize.Label" xml:space="preserve">
+    <value>Validar posición y tamaño</value>
+  </data>
+  <data name="appbtnRecordVoice.Label" xml:space="preserve">
+    <value>Grabar</value>
+  </data>
+  <data name="appbtnRestart.Label" xml:space="preserve">
+    <value>Reiniciar firma</value>
+  </data>
+  <data name="appbtnSave.Label" xml:space="preserve">
+    <value>Guardar fichero firmado</value>
+  </data>
+  <data name="appbtnSaveClient.Label" xml:space="preserve">
+    <value>Actualizar datos</value>
+  </data>
+  <data name="appbtnSign.Label" xml:space="preserve">
+    <value>Firmar</value>
+  </data>
+  <data name="appbtnValidate.Label" xml:space="preserve">
+    <value>Validar Firma</value>
+  </data>
+  <data name="btGenerateContract.Label" xml:space="preserve">
+    <value>Generar contrato</value>
+  </data>
+  <data name="btSelectBackground.Content" xml:space="preserve">
+    <value>Seleccionar</value>
+  </data>
+  <data name="btSelectLogo.Content" xml:space="preserve">
+    <value>Seleccionar</value>
+  </data>
+  <data name="chbConfidentialTems.Content" xml:space="preserve">
+    <value>Acepto los términos de confidencialidad</value>
+  </data>
+  <data name="dtPcikerClientBornDate.Header" xml:space="preserve">
+    <value>Fecha nacimiento</value>
+  </data>
+  <data name="dtPicker.Header" xml:space="preserve">
+    <value>Fecha inicio</value>
+  </data>
+  <data name="dtPickerInitDate.Header" xml:space="preserve">
+    <value>Fecha Inicio</value>
+  </data>
+  <data name="dtPickerSvc.Header" xml:space="preserve">
+    <value>Fecha inicio</value>
+  </data>
+  <data name="rbtAyuntamietno.Content" xml:space="preserve">
+    <value>Demo Ayuntamiento Bilbao</value>
+  </data>
+  <data name="rbtSeguros.Content" xml:space="preserve">
+    <value>Demo aseguradora</value>
+  </data>
+  <data name="searchBox.PlaceholderText" xml:space="preserve">
+    <value>Buscar cliente por DNI</value>
+  </data>
+  <data name="tbApiKey.Header" xml:space="preserve">
+    <value>ApiKey pdf Convertidor</value>
+  </data>
+  <data name="tbBackground.Text" xml:space="preserve">
+    <value>Configuración fondo</value>
+  </data>
+  <data name="tbBackgroundDesc.Text" xml:space="preserve">
+    <value>Seleccione fondo de pantalla</value>
+  </data>
+  <data name="tbChangeOrientation.Text" xml:space="preserve">
+    <value>Para continuar con el proceso de firma, cambie de orientación</value>
+  </data>
+  <data name="tbClientDNI.Header" xml:space="preserve">
+    <value>DNI</value>
+  </data>
+  <data name="tbClientDNIConf.Header" xml:space="preserve">
+    <value>DNI</value>
+  </data>
+  <data name="tbClientEmail.Header" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="tbClientFirstName.Header" xml:space="preserve">
+    <value>Primer apellido</value>
+  </data>
+  <data name="tbClientFirstNameConf.Header" xml:space="preserve">
+    <value>Primer apellido</value>
+  </data>
+  <data name="tbClientName.Header" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="tbClientNameConf.Header" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="tbClientNumeroCuenta.Header" xml:space="preserve">
+    <value>Número de cuenta</value>
+  </data>
+  <data name="tbClientPhone.Header" xml:space="preserve">
+    <value>Teléfono</value>
+  </data>
+  <data name="tbClientSecondName.Header" xml:space="preserve">
+    <value>Segundo apellido</value>
+  </data>
+  <data name="tbClientSecondNameConf.Header" xml:space="preserve">
+    <value>Segundo apellido</value>
+  </data>
+  <data name="tbConf.Text" xml:space="preserve">
+    <value>Confirmación de la solicitud</value>
+  </data>
+  <data name="tbImporte.Header" xml:space="preserve">
+    <value>Importe</value>
+  </data>
+  <data name="tbImporte.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="tbImporteSvc.Header" xml:space="preserve">
+    <value>Importe</value>
+  </data>
+  <data name="tblNotClient.Text" xml:space="preserve">
+    <value>No existe ningún cliente con el DNI indicado, complete la ficha del cliente</value>
+  </data>
+  <data name="tbLogoConf.Text" xml:space="preserve">
+    <value>Configuración logo</value>
+  </data>
+  <data name="tbLogoConfDesc.Text" xml:space="preserve">
+    <value>Seleccione el logo a mostrar en la cabecera de la aplicación</value>
+  </data>
+  <data name="tblRestart.Text" xml:space="preserve">
+    <value>Para poder aplicar los cambios, reinicie la aplicación</value>
+  </data>
+  <data name="tblRestartBackground.Text" xml:space="preserve">
+    <value>Para poder aplicar los cambios, reinicie la aplicación</value>
+  </data>
+  <data name="tbSelectDemo.Text" xml:space="preserve">
+    <value>Seleccione demo</value>
+  </data>
+  <data name="tbSelectDemoDesc.Text" xml:space="preserve">
+    <value>Seleccione el tipo de demo Seguros/Ayuntamiento</value>
+  </data>
+  <data name="tbService.Header" xml:space="preserve">
+    <value>Nombre Servicio</value>
+  </data>
+  <data name="tbSignHere.Text" xml:space="preserve">
+    <value>Firme aquí</value>
+  </data>
+  <data name="tbSignHereVertical.Text" xml:space="preserve">
+    <value>Firme aquí</value>
+  </data>
+  <data name="AddItemmsg" xml:space="preserve">
+    <value>Añadir elementos</value>
+  </data>
+  <data name="appbtnSaveAuthCitizen.Label" xml:space="preserve">
+    <value>Actualizar datos</value>
+  </data>
+  <data name="appbtnSaveCitizen.Label" xml:space="preserve">
+    <value>Generar solicitud</value>
+  </data>
+  <data name="appbtnSaveReqCitizen.Label" xml:space="preserve">
+    <value>Actualizar datos</value>
+  </data>
+  <data name="cbhBankAttached.Content" xml:space="preserve">
+    <value>Se acompaña domiciliación bancaria</value>
+  </data>
+  <data name="cbhDocumentAttached.Content" xml:space="preserve">
+    <value>Se acompañan documentos</value>
+  </data>
+  <data name="cbhWritingAttached.Content" xml:space="preserve">
+    <value>Se acompaña escrito</value>
+  </data>
+  <data name="chbAuthorized.Content" xml:space="preserve">
+    <value>Agregar datos de la persona Representate / Autorizada</value>
+  </data>
+  <data name="lbCommunicationLanguage.Header" xml:space="preserve">
+    <value>Idioma comunicación</value>
+  </data>
+  <data name="searchBoxAuthorized.PlaceholderText" xml:space="preserve">
+    <value>Buscar datos de la persona representante/autorizada (DNI)</value>
+  </data>
+  <data name="searchBoxCitizen.PlaceholderText" xml:space="preserve">
+    <value>Buscar datos de la persona solitante (DNI)</value>
+  </data>
+  <data name="strApiKeyConf" xml:space="preserve">
+    <value>Configure la seccion ApiKey de la app</value>
+  </data>
+  <data name="strAttached" xml:space="preserve">
+    <value>Elementos adjuntados:</value>
+  </data>
+  <data name="strAudioAttached" xml:space="preserve">
+    <value>Aceptación audio adjuntado</value>
+  </data>
+  <data name="strAudioAttachedMissing" xml:space="preserve">
+    <value>Falta aceptación audio</value>
+  </data>
+  <data name="strDBConnectionErrormsg" xml:space="preserve">
+    <value>No se pudo establecer conexión con la base de datos</value>
+  </data>
+  <data name="strDiscardQuestion" xml:space="preserve">
+    <value>¿Estas seguro de que deseas empezar de nuevo y descartar el proceso actual?</value>
+  </data>
+  <data name="strDNIFormatErrormsg" xml:space="preserve">
+    <value>Introduce un formato de DNI correcto, incluyendo letra en mayuscula</value>
+  </data>
+  <data name="strDNIPhotoAttached" xml:space="preserve">
+    <value>Foto DNI adjuntado</value>
+  </data>
+  <data name="strDNIPhotoAttachedMissing" xml:space="preserve">
+    <value>Falta foto DNI</value>
+  </data>
+  <data name="strError" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="strGetStorageItemException" xml:space="preserve">
+    <value>Error en GetStorageItemsAsync</value>
+  </data>
+  <data name="strMsg" xml:space="preserve">
+    <value />
+  </data>
+  <data name="strNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="strNoSign" xml:space="preserve">
+    <value>No hay ninguna firma que guardar</value>
+  </data>
+  <data name="strPDFCreationErrormsg" xml:space="preserve">
+    <value>No se ha podido generar el pdf, intentelo de nuevo reiniciando la aplicación</value>
+  </data>
+  <data name="strPDFLoadException" xml:space="preserve">
+    <value>No se pudo cargar el pdf del contrato</value>
+  </data>
+  <data name="strPhotoAttached" xml:space="preserve">
+    <value>Foto cliente adjuntado</value>
+  </data>
+  <data name="strPhotoAttachedMissing" xml:space="preserve">
+    <value>Falta foto cliente</value>
+  </data>
+  <data name="strRestartChangeDemo" xml:space="preserve">
+    <value>Reinicie la aplicación para cambiar  de demo</value>
+  </data>
+  <data name="strResumen" xml:space="preserve">
+    <value>Resumen</value>
+  </data>
+  <data name="strSettings" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="strLanguageSettings" xml:space="preserve">
+    <value>Configuración idioma</value>
+  </data>
+  <data name="strSigninProcessError" xml:space="preserve">
+    <value>Ha habido problemas en el proceso de firma, la aplicación se apagará. Reinicie e inténtelo de nuevo</value>
+  </data>
+  <data name="strValidateSign" xml:space="preserve">
+    <value>Validar firma</value>
+  </data>
+  <data name="strYes" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="strZipSaved" xml:space="preserve">
+    <value>El zip con todos los datos se ha guardado correctamente</value>
+  </data>
+  <data name="tbAdmin.Header" xml:space="preserve">
+    <value>Administración Destino</value>
+  </data>
+  <data name="tbAdminUnit.Header" xml:space="preserve">
+    <value>Unidad administrativa Destino</value>
+  </data>
+  <data name="tbAuthorizedData.Text" xml:space="preserve">
+    <value>Datos de la Persona Representate/Autorizada</value>
+  </data>
+  <data name="tbAuthorizedPersonData.Text" xml:space="preserve">
+    <value>Datos de la Persona Representate/Autorizada</value>
+  </data>
+  <data name="tbCause.Header" xml:space="preserve">
+    <value>Motivo de la solicitud</value>
+  </data>
+  <data name="tbCitizenBis.Header" xml:space="preserve">
+    <value>Bis</value>
+  </data>
+  <data name="tbCitizenCity.Header" xml:space="preserve">
+    <value>Municipio</value>
+  </data>
+  <data name="tbCitizenCountry.Header" xml:space="preserve">
+    <value>Pais, Provincia o Territorio Historico</value>
+  </data>
+  <data name="tbCitizenDNI.Header" xml:space="preserve">
+    <value>Nº DNI, NIE o CIF</value>
+  </data>
+  <data name="tbCitizenDoor.Header" xml:space="preserve">
+    <value>Puerta</value>
+  </data>
+  <data name="tbCitizenEmail.Header" xml:space="preserve">
+    <value>Correo electronico (e-mail)</value>
+  </data>
+  <data name="tbCitizenFirstName.Header" xml:space="preserve">
+    <value>Primer apellido</value>
+  </data>
+  <data name="tbCitizenFloor.Header" xml:space="preserve">
+    <value>Planta</value>
+  </data>
+  <data name="tbCitizenHand.Header" xml:space="preserve">
+    <value>Mano</value>
+  </data>
+  <data name="tbCitizenMobilePhone.Header" xml:space="preserve">
+    <value>Teléfono movil</value>
+  </data>
+  <data name="tbCitizenName.Header" xml:space="preserve">
+    <value>Nombre, Razón Social o denominación de la Entidad</value>
+  </data>
+  <data name="tbCitizenNationality.Header" xml:space="preserve">
+    <value>Nacionalidad</value>
+  </data>
+  <data name="tbCitizenNumber.Header" xml:space="preserve">
+    <value>Nº Portal</value>
+  </data>
+  <data name="tbCitizenPassport.Header" xml:space="preserve">
+    <value>Nº Pasaporte</value>
+  </data>
+  <data name="tbCitizenPhone.Header" xml:space="preserve">
+    <value>Teléfono</value>
+  </data>
+  <data name="tbCitizenPostalCode.Header" xml:space="preserve">
+    <value>Código postal</value>
+  </data>
+  <data name="tbCitizenSecondName.Header" xml:space="preserve">
+    <value>Segundo apellido</value>
+  </data>
+  <data name="tbCitizenShortDNI.Header" xml:space="preserve">
+    <value>Nº DNI, NIE o CIF</value>
+  </data>
+  <data name="tbCitizenShortFirstName.Header" xml:space="preserve">
+    <value>Primer apellido</value>
+  </data>
+  <data name="tbCitizenShortName.Header" xml:space="preserve">
+    <value>Nombre, Razón Social o denominación de la Entidad</value>
+  </data>
+  <data name="tbCitizenShortSecondName.Header" xml:space="preserve">
+    <value>Segundo apellido</value>
+  </data>
+  <data name="tbCitizenStaircase.Header" xml:space="preserve">
+    <value>Escalera</value>
+  </data>
+  <data name="tbCitizenStreet.Header" xml:space="preserve">
+    <value>Calle</value>
+  </data>
+  <data name="tbDepartment.Header" xml:space="preserve">
+    <value>Área o Departamento Destino</value>
+  </data>
+  <data name="tbExpedientNumber.Header" xml:space="preserve">
+    <value>Nº de expediente</value>
+  </data>
+  <data name="tbLicencePlate.Header" xml:space="preserve">
+    <value>Matrícula</value>
+  </data>
+  <data name="tblNotCitizen.Text" xml:space="preserve">
+    <value>No existe ningún ciudadano con el DNI indicado, complete la ficha de ciudadano</value>
+  </data>
+  <data name="tblNotCitizenAuthorized.Text" xml:space="preserve">
+    <value>No existe ningún ciudadano con el DNI indicado, complete la ficha de ciudadano</value>
+  </data>
+  <data name="tbNotes.Header" xml:space="preserve">
+    <value>Observaciones</value>
+  </data>
+  <data name="tbOposition.Header" xml:space="preserve">
+    <value>Oposición</value>
+  </data>
+  <data name="tbRequester.Text" xml:space="preserve">
+    <value>Datos de la Persona Solicitante</value>
+  </data>
+  <data name="tbRequesterData.Text" xml:space="preserve">
+    <value>Datos de la Persona Solicitante</value>
+  </data>
+  <data name="tbSubject.Header" xml:space="preserve">
+    <value>Asunto</value>
+  </data>
+  <data name="strNoCitizen" xml:space="preserve">
+    <value>No existe ningún ciudadano con el DNI indicado, complete la ficha del ciudadano</value>
+  </data>
+  <data name="strSignHere" xml:space="preserve">
+    <value>Firme aquí</value>
+  </data>
+  <data name="strNoClient" xml:space="preserve">
+    <value>No existe ningún cliente con el DNI indicado, complete la ficha del cliente</value>
+  </data>
+  <data name="strDNI" xml:space="preserve">
+    <value>DNI</value>
+  </data>
+  <data name="strFillData" xml:space="preserve">
+    <value>Rellene los siguientes campos con datos válidos</value>
+  </data>
+  <data name="strFirstSurname" xml:space="preserve">
+    <value>Primer apellido</value>
+  </data>
+  <data name="strImporte" xml:space="preserve">
+    <value>Importe</value>
+  </data>
+  <data name="strName" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="strSecondSurname" xml:space="preserve">
+    <value>Segundo apellido</value>
+  </data>
+  <data name="strTelephone" xml:space="preserve">
+    <value>Teléfono</value>
+  </data>
+  <data name="strNotClient" xml:space="preserve">
+    <value>No existe ningún cliente con el DNI indicado, complete la ficha del cliente</value>
+  </data>
+  <data name="appbtnOperationCancel.Label" xml:space="preserve">
+    <value>Cancelar operación</value>
+  </data>
+  <data name="strCloseMsg" xml:space="preserve">
+    <value>Cerrar</value>
+  </data>
+  <data name="prueba" xml:space="preserve">
+    <value>prueba</value>
+  </data>
+</root>

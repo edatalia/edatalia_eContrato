@@ -1,0 +1,2 @@
+C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Edatalia_signplyRT.csproj;x64
+C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\PdfViewModel\PdfViewModel.vcxproj;x64

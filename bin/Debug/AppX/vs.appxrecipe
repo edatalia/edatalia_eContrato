@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ETIC-LAPTOP-13</Machine>
+    <WindowsUser>agomez</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3022db98-afb6-4c9c-9153-21d964781953</PackageIdentityName>
+    <RegisteredManifestChecksum>55C89C8C5F3D3AB8D55A12F23281381DA5AE3D698A81F44391A60A8CED30D7D9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3022db98-afb6-4c9c-9153-21d964781953_1.0.0.0_neutral__a6xmkfdj4czm2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3022db98-afb6-4c9c-9153-21d964781953_a6xmkfdj4czm2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3022db98-afb6-4c9c-9153-21d964781953</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=agomez</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-09T09:01:42.865</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\Debug\Edatalia_signplyRT.exe">
+      <PackagePath>Edatalia_signplyRT.exe</PackagePath>
+      <Modified>2014-07-09T09:01:38.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\edatalia.png">
+      <PackagePath>Assets\edatalia.png</PackagePath>
+      <Modified>2014-07-09T08:34:07.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-09T09:08:43.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-09T09:00:46.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-09T09:00:46.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\agomez.etic\documents\visual studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-09T09:01:40.661</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

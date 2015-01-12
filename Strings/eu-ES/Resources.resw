@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddItemmsg" xml:space="preserve">
+    <value>Datuak gehitu</value>
+  </data>
+  <data name="appbtnCancelSign.Label" xml:space="preserve">
+    <value>Sinadura garbitu</value>
+  </data>
+  <data name="appbtnConfirm.Label" xml:space="preserve">
+    <value>Eskaera baieztatu</value>
+  </data>
+  <data name="appbtnDNIPhoto.Label" xml:space="preserve">
+    <value>NAN erantsi</value>
+  </data>
+  <data name="appbtnOpen.Label" xml:space="preserve">
+    <value>Eredua aukeratu</value>
+  </data>
+  <data name="appbtnPhoto.Label" xml:space="preserve">
+    <value>Argazkia erantsi</value>
+  </data>
+  <data name="appbtnPosSize.Label" xml:space="preserve">
+    <value>Tokia eta neurria balioztatu</value>
+  </data>
+  <data name="appbtnRecordVoice.Label" xml:space="preserve">
+    <value>Grabatu</value>
+  </data>
+  <data name="appbtnRestart.Label" xml:space="preserve">
+    <value>Sinadura berrabiatu</value>
+  </data>
+  <data name="appbtnSave.Label" xml:space="preserve">
+    <value>Gorde fitxategia sinatuta</value>
+  </data>
+  <data name="appbtnSaveAuthCitizen.Label" xml:space="preserve">
+    <value>Datuak eguneratu</value>
+  </data>
+  <data name="appbtnSaveCitizen.Label" xml:space="preserve">
+    <value>Eskaera sortu</value>
+  </data>
+  <data name="appbtnSaveClient.Label" xml:space="preserve">
+    <value>Datuak eguneratu </value>
+  </data>
+  <data name="appbtnSaveReqCitizen.Label" xml:space="preserve">
+    <value>Datuak eguneratu </value>
+  </data>
+  <data name="appbtnSign.Label" xml:space="preserve">
+    <value>Sinatu</value>
+  </data>
+  <data name="appbtnValidate.Label" xml:space="preserve">
+    <value>Sinadura </value>
+  </data>
+  <data name="btGenerateContract.Label" xml:space="preserve">
+    <value>Kontratua sortu</value>
+  </data>
+  <data name="btSelectBackground.Content" xml:space="preserve">
+    <value>Aukeratu</value>
+  </data>
+  <data name="btSelectLogo.Content" xml:space="preserve">
+    <value>Aukeratu</value>
+  </data>
+  <data name="cbhBankAttached.Content" xml:space="preserve">
+    <value>Bankuko datuak erantsiak daude</value>
+  </data>
+  <data name="cbhDocumentAttached.Content" xml:space="preserve">
+    <value>Dokumentuak erantsiak daude </value>
+  </data>
+  <data name="cbhWritingAttached.Content" xml:space="preserve">
+    <value>Idazkia erantsitzen da</value>
+  </data>
+  <data name="chbAuthorized.Content" xml:space="preserve">
+    <value>Baimendutako ordezkariaren datoak gehitu</value>
+  </data>
+  <data name="chbConfidentialTems.Content" xml:space="preserve">
+    <value>Konfidaltasuneko arauak onartzen ditut</value>
+  </data>
+  <data name="dtPcikerClientBornDate.Header" xml:space="preserve">
+    <value>Jaiotako eguna</value>
+  </data>
+  <data name="dtPicker.Header" xml:space="preserve">
+    <value>Hasierako data</value>
+  </data>
+  <data name="dtPickerInitDate.Header" xml:space="preserve">
+    <value>Hasierako data </value>
+  </data>
+  <data name="dtPickerSvc.Header" xml:space="preserve">
+    <value>Hasierako data </value>
+  </data>
+  <data name="lbCommunicationLanguage.Header" xml:space="preserve">
+    <value>Komunikatzeko hizkuntza</value>
+  </data>
+  <data name="rbtAyuntamietno.Content" xml:space="preserve">
+    <value>Bilboko udalaren demoa</value>
+  </data>
+  <data name="rbtSeguros.Content" xml:space="preserve">
+    <value>Aseguratzile demoa</value>
+  </data>
+  <data name="searchBox.PlaceholderText" xml:space="preserve">
+    <value>NAN-en bidez bezeroa topatu</value>
+  </data>
+  <data name="searchBoxAuthorized.PlaceholderText" xml:space="preserve">
+    <value>Baimendutako ordezkariaren datoak topatu (NAN)</value>
+  </data>
+  <data name="searchBoxCitizen.PlaceholderText" xml:space="preserve">
+    <value>Eskatzailearen datoak topatu (NAN)</value>
+  </data>
+  <data name="strApiKeyConf" xml:space="preserve">
+    <value>Aplikazioko ApiKey sekzioa konfiguratu</value>
+  </data>
+  <data name="strAttached" xml:space="preserve">
+    <value>Erantsitako elementoak:</value>
+  </data>
+  <data name="strAudioAttached" xml:space="preserve">
+    <value>Erantsitako audioa onartu</value>
+  </data>
+  <data name="strAudioAttachedMissing" xml:space="preserve">
+    <value>Audio onartzea falta da</value>
+  </data>
+  <data name="strDBConnectionErrormsg" xml:space="preserve">
+    <value>Databasearekin ezin da konektatu</value>
+  </data>
+  <data name="strDiscardQuestion" xml:space="preserve">
+    <value>Honako prozesua galdu eta berriz hastea garbi duzu?</value>
+  </data>
+  <data name="strDNIFormatErrormsg" xml:space="preserve">
+    <value>Ondo dagoen NAN formatu bat sartu (letra maiuskulaz) </value>
+  </data>
+  <data name="strDNIPhotoAttached" xml:space="preserve">
+    <value>NAN argazkia erantsita</value>
+  </data>
+  <data name="strDNIPhotoAttachedMissing" xml:space="preserve">
+    <value>NAN-ko argazkia falta da</value>
+  </data>
+  <data name="strError" xml:space="preserve">
+    <value>Errorea</value>
+  </data>
+  <data name="strGetStorageItemException" xml:space="preserve">
+    <value> GetStorageItemsAsync errorea</value>
+  </data>
+  <data name="strMsg" xml:space="preserve">
+    <value />
+  </data>
+  <data name="strNo" xml:space="preserve">
+    <value>Ez</value>
+  </data>
+  <data name="strNoSign" xml:space="preserve">
+    <value>Ez dago sinaturik gordetzeko</value>
+  </data>
+  <data name="strPDFCreationErrormsg" xml:space="preserve">
+    <value>Pdf-a ezin izan da sortu. Berriz saiatu aplikazio berrabiatu</value>
+  </data>
+  <data name="strPDFLoadException" xml:space="preserve">
+    <value>Ezin izan da kontratuaren pdf-a kargatu</value>
+  </data>
+  <data name="strPhotoAttached" xml:space="preserve">
+    <value>Bezeroaren argazkia erantsita</value>
+  </data>
+  <data name="strPhotoAttachedMissing" xml:space="preserve">
+    <value>Bezeroaren argazkia falta da</value>
+  </data>
+  <data name="strRestartChangeDemo" xml:space="preserve">
+    <value>Berrabiatu aplikazioa demoa aldatzeko</value>
+  </data>
+  <data name="strResumen" xml:space="preserve">
+    <value>Laburpena</value>
+  </data>
+  <data name="strSettings" xml:space="preserve">
+    <value>Konfigurazioa</value>
+  </data>
+  <data name="strLanguageSettings" xml:space="preserve">
+    <value>Hizkuntza hobespenak</value>
+  </data>
+  <data name="strSigninProcessError" xml:space="preserve">
+    <value>Problemeren bat egon da sinaduraren prozesuan. Berrabiatu eta saiatu berriro</value>
+  </data>
+  <data name="strValidateSign" xml:space="preserve">
+    <value>Sinadura baieztatu</value>
+  </data>
+  <data name="strYes" xml:space="preserve">
+    <value>Bai</value>
+  </data>
+  <data name="strZipSaved" xml:space="preserve">
+    <value>Datu guztiekin zip-a ondo gorde da</value>
+  </data>
+  <data name="tbAdmin.Header" xml:space="preserve">
+    <value>Helburu administrazioa</value>
+  </data>
+  <data name="tbAdminUnit.Header" xml:space="preserve">
+    <value>Helburu administrazio unitatea</value>
+  </data>
+  <data name="tbApiKey.Header" xml:space="preserve">
+    <value>ApiKey pdf konbertizailea</value>
+  </data>
+  <data name="tbAuthorizedData.Text" xml:space="preserve">
+    <value>Pertsona ordezkariaren datuak</value>
+  </data>
+  <data name="tbAuthorizedPersonData.Text" xml:space="preserve">
+    <value>Pertsona ordezkariaren datuak</value>
+  </data>
+  <data name="tbBackground.Text" xml:space="preserve">
+    <value>Atzealde konfigrazioa</value>
+  </data>
+  <data name="tbBackgroundDesc.Text" xml:space="preserve">
+    <value>Pantailako atzealdea aukeratu</value>
+  </data>
+  <data name="tbCause.Header" xml:space="preserve">
+    <value>Eskarearen arrazoia</value>
+  </data>
+  <data name="tbChangeOrientation.Text" xml:space="preserve">
+    <value>Sinaduraren prozesua jarraitzeko, aldatu orientzaioa</value>
+  </data>
+  <data name="tbCitizenBis.Header" xml:space="preserve">
+    <value>Bis</value>
+  </data>
+  <data name="tbCitizenCity.Header" xml:space="preserve">
+    <value>Herria/Hiria</value>
+  </data>
+  <data name="tbCitizenCountry.Header" xml:space="preserve">
+    <value>Herrialde, probintzia edo lurralde historikoa</value>
+  </data>
+  <data name="tbCitizenDNI.Header" xml:space="preserve">
+    <value>NAN edo CIF</value>
+  </data>
+  <data name="tbCitizenDoor.Header" xml:space="preserve">
+    <value>Atea</value>
+  </data>
+  <data name="tbCitizenEmail.Header" xml:space="preserve">
+    <value>Korreo elektronikoa (e-mail)</value>
+  </data>
+  <data name="tbCitizenFirstName.Header" xml:space="preserve">
+    <value>Lehenengo abizena</value>
+  </data>
+  <data name="tbCitizenFloor.Header" xml:space="preserve">
+    <value>Soilarua</value>
+  </data>
+  <data name="tbCitizenHand.Header" xml:space="preserve">
+    <value>Eskua</value>
+  </data>
+  <data name="tbCitizenMobilePhone.Header" xml:space="preserve">
+    <value>Telefono mugikorra</value>
+  </data>
+  <data name="tbCitizenName.Header" xml:space="preserve">
+    <value>Izena, zuzenbidea edo entitatearen izena</value>
+  </data>
+  <data name="tbCitizenNationality.Header" xml:space="preserve">
+    <value>Nortasuna</value>
+  </data>
+  <data name="tbCitizenNumber.Header" xml:space="preserve">
+    <value>Atearen zenbakia</value>
+  </data>
+  <data name="tbCitizenPassport.Header" xml:space="preserve">
+    <value>Nº Pasaportea</value>
+  </data>
+  <data name="tbCitizenPhone.Header" xml:space="preserve">
+    <value>Telefonoa</value>
+  </data>
+  <data name="tbCitizenPostalCode.Header" xml:space="preserve">
+    <value>Kodigo postala</value>
+  </data>
+  <data name="tbCitizenSecondName.Header" xml:space="preserve">
+    <value>Bigarren abizena</value>
+  </data>
+  <data name="tbCitizenShortDNI.Header" xml:space="preserve">
+    <value>NAN edo CIF </value>
+  </data>
+  <data name="tbCitizenShortFirstName.Header" xml:space="preserve">
+    <value>Lehen abizena</value>
+  </data>
+  <data name="tbCitizenShortName.Header" xml:space="preserve">
+    <value>Izena, zuzenbidea edo entitatearen izena</value>
+  </data>
+  <data name="tbCitizenShortSecondName.Header" xml:space="preserve">
+    <value>Bigarren abizena</value>
+  </data>
+  <data name="tbCitizenStaircase.Header" xml:space="preserve">
+    <value>Eskilara</value>
+  </data>
+  <data name="tbCitizenStreet.Header" xml:space="preserve">
+    <value>Kalea</value>
+  </data>
+  <data name="tbClientDNI.Header" xml:space="preserve">
+    <value>NAN</value>
+  </data>
+  <data name="tbClientDNIConf.Header" xml:space="preserve">
+    <value>NAN</value>
+  </data>
+  <data name="tbClientEmail.Header" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="tbClientFirstName.Header" xml:space="preserve">
+    <value>Lehen abizena</value>
+  </data>
+  <data name="tbClientFirstNameConf.Header" xml:space="preserve">
+    <value> Lehen abizena </value>
+  </data>
+  <data name="tbClientName.Header" xml:space="preserve">
+    <value>Izena</value>
+  </data>
+  <data name="tbClientNameConf.Header" xml:space="preserve">
+    <value>Izena</value>
+  </data>
+  <data name="tbClientNumeroCuenta.Header" xml:space="preserve">
+    <value>Kontu zenbakia</value>
+  </data>
+  <data name="tbClientPhone.Header" xml:space="preserve">
+    <value>Telefonoa</value>
+  </data>
+  <data name="tbClientSecondName.Header" xml:space="preserve">
+    <value>Bigarren abizena</value>
+  </data>
+  <data name="tbClientSecondNameConf.Header" xml:space="preserve">
+    <value> Bigarren abizena </value>
+  </data>
+  <data name="tbConf.Text" xml:space="preserve">
+    <value>Eskareren konfirmazioa</value>
+  </data>
+  <data name="tbDepartment.Header" xml:space="preserve">
+    <value>Area edo departamentua</value>
+  </data>
+  <data name="tbExpedientNumber.Header" xml:space="preserve">
+    <value>Expedientearen zenbakia</value>
+  </data>
+  <data name="tbImporte.Header" xml:space="preserve">
+    <value>Inportea</value>
+  </data>
+  <data name="tbImporte.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="tbImporteSvc.Header" xml:space="preserve">
+    <value>Inportea</value>
+  </data>
+  <data name="tbLicencePlate.Header" xml:space="preserve">
+    <value>Matríkula</value>
+  </data>
+  <data name="tblNotCitizen.Text" xml:space="preserve">
+    <value>NAN horrekin ez da existitzen biztanlerik, bete biztanlearen fitxa</value>
+  </data>
+  <data name="tblNotCitizenAuthorized.Text" xml:space="preserve">
+    <value>NAN horrekin ez da existitzen biztanlerik, bete biztanlearen fitxa</value>
+  </data>
+  <data name="tblNotClient.Text" xml:space="preserve">
+    <value>NAN horrekin ez da existitzen biztanlerik, bete bezeroaren fitxa</value>
+  </data>
+  <data name="tbLogoConf.Text" xml:space="preserve">
+    <value>Logo konfigurazioa</value>
+  </data>
+  <data name="tbLogoConfDesc.Text" xml:space="preserve">
+    <value>Aplikazioaren buruan agertzeko loagoa aukeratu</value>
+  </data>
+  <data name="tblRestart.Text" xml:space="preserve">
+    <value>Aldaketak onartzeko berrabiatu aplikazioa </value>
+  </data>
+  <data name="tblRestartBackground.Text" xml:space="preserve">
+    <value>Aldaketak onartzeko berrabiatu aplikazioa</value>
+  </data>
+  <data name="tbNotes.Header" xml:space="preserve">
+    <value>Oharrak</value>
+  </data>
+  <data name="tbOposition.Header" xml:space="preserve">
+    <value>Oposizioa</value>
+  </data>
+  <data name="tbRequester.Text" xml:space="preserve">
+    <value>Ekatzailearen datuak</value>
+  </data>
+  <data name="tbRequesterData.Text" xml:space="preserve">
+    <value>Ekatzailearen datuak</value>
+  </data>
+  <data name="tbSelectDemo.Text" xml:space="preserve">
+    <value>Demoa aukeratu</value>
+  </data>
+  <data name="tbSelectDemoDesc.Text" xml:space="preserve">
+    <value>Demoaren mota aukeratu: Asegurua edo udaletxea</value>
+  </data>
+  <data name="tbService.Header" xml:space="preserve">
+    <value>Serbitsuaren izena</value>
+  </data>
+  <data name="tbSignHere.Text" xml:space="preserve">
+    <value>Sinatu hemen</value>
+  </data>
+  <data name="tbSignHereVertical.Text" xml:space="preserve">
+    <value>Sinatu hemen</value>
+  </data>
+  <data name="tbSubject.Header" xml:space="preserve">
+    <value>Gaia</value>
+  </data>
+  <data name="strNoCitizen" xml:space="preserve">
+    <value>NAN horrekin ez da existitzen biztanlerik, bete biztanlearen fitxa </value>
+  </data>
+  <data name="strNotClient" xml:space="preserve">
+    <value>NAN horrekin ez da existitzen biztanlerik, bete bezeroaren fitxa </value>
+  </data>
+  <data name="strSignHere" xml:space="preserve">
+    <value>Sinatu hemen</value>
+  </data>
+  <data name="strDNI" xml:space="preserve">
+    <value>NAN</value>
+  </data>
+  <data name="strFillData" xml:space="preserve">
+    <value>Hurrengo  atalak bete datu balioarrekin</value>
+  </data>
+  <data name="strFirstSurname" xml:space="preserve">
+    <value>Lehenengo abizena</value>
+  </data>
+  <data name="strImporte" xml:space="preserve">
+    <value>Inportea</value>
+  </data>
+  <data name="strName" xml:space="preserve">
+    <value>Izena</value>
+  </data>
+  <data name="strSecondSurname" xml:space="preserve">
+    <value>Bigarren abizena</value>
+  </data>
+  <data name="strTelephone" xml:space="preserve">
+    <value>Telefonoa</value>
+  </data>
+  <data name="appbtnOperationCancel.Label" xml:space="preserve">
+    <value>Operazioa deuseztatu</value>
+  </data>
+  <data name="strCloseMsg" xml:space="preserve">
+    <value>Itxi</value>
+  </data>
+  <data name="prueba" xml:space="preserve">
+    <value>prueba</value>
+  </data>
+</root>

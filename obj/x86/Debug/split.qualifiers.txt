@@ -1,0 +1,2 @@
+Language=ES-ES
+Language=EU-ES

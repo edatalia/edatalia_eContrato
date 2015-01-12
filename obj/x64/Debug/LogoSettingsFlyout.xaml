@@ -1,0 +1,64 @@
+﻿<SettingsFlyout
+    x:Class="Edatalia_signplyRT.LogoSettingsFlyout"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Edatalia_signplyRT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    IconSource="Assets/SmallLogo.png"
+    Title="Configuración"
+    d:DesignWidth="346">
+
+    <!-- This StackPanel acts as a root panel for vertical layout of the content sections -->
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+
+        <!-- The StackPanel(s) below define individual content sections -->
+
+        <!-- Content Section 1-->
+        <StackPanel Style="{StaticResource SettingsFlyoutSectionStyle}">
+
+            <!-- Section 1 header -->
+            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Configuración logo" />
+
+            <!-- Section 1 body -->
+            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap">
+                <TextBlock.Text>
+                    Seleccione el logo a mostrar en la cabecera de la aplicación
+                </TextBlock.Text>
+            </TextBlock>
+
+            <TextBox x:Name="tbLogoPath"></TextBox>
+            <Button x:ConnectionId='2' x:Name="btSelectLogo"                            Content="Seleccionar"></Button>
+            <TextBlock x:Name="tblRestart" Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap">
+                <TextBlock.Text>
+                   Para poder aplicar los cambios, reinicie la aplicación
+                </TextBlock.Text>
+            </TextBlock>
+        </StackPanel>
+
+        <!-- Define more Content Sections below as necessary -->
+        <StackPanel Style="{StaticResource SettingsFlyoutSectionStyle}">
+
+            <!-- Section 1 header -->
+            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Configuración fondo" />
+
+            <!-- Section 1 body -->
+            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap">
+                <TextBlock.Text>
+                    Seleccione fondo de pantalla
+                </TextBlock.Text>
+            </TextBlock>
+
+            <TextBox x:Name="tbBackgroundPath"></TextBox>
+            <Button x:ConnectionId='1' x:Name="btSelectBackgroudn"                                  Content="Seleccionar"></Button>
+            <TextBlock x:Name="tblRestartBackground" Style="{StaticResource BodyTextBlockStyle}" Margin="0,0,0,25" TextWrapping="Wrap">
+                <TextBlock.Text>
+                    Para poder aplicar los cambios, reinicie la aplicación
+                </TextBlock.Text>
+            </TextBlock>
+        </StackPanel>
+
+    </StackPanel>
+</SettingsFlyout>
+

@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\agomez.etic\documents\visual studio 2013\projects\edatalia_signplyrt\edatalia_signplyrt\obj\x86\release\intermediatexaml\edatalia_signplyrt.exe" HashGuid="756bb0b5-ddec-2fc2-501f-1915203127c2" />
+    <ReferenceAssembly PathName="c:\users\agomez.etic\documents\visual studio 2013\projects\edatalia_signplyrt\packages\newtonsoft.json.6.0.3\lib\netcore45\newtonsoft.json.dll" HashGuid="7727b668-bdac-5612-b497-e55cbaabf5af" />
+    <ReferenceAssembly PathName="c:\users\agomez.etic\documents\visual studio 2013\projects\edatalia_signplyrt\release\pdfviewmodel\pdfviewmodel.winmd" HashGuid="2996cb11-fc8d-32ac-cb8d-ddf6adf6b854" />
+    <ReferenceAssembly PathName="c:\users\agomez.etic\documents\visual studio 2013\projects\edatalia_signplyrt\edatalia_signplyrt\externaldll\syncfusion.docio.winrt.dll" HashGuid="fd321d8a-db89-9578-7702-2e8723fdc87a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

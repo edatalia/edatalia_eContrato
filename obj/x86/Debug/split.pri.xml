@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="3022db98-afb6-4c9c-9153-21d964781953" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AudioRecordUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/AudioRecordUserControl.xbf">
+				<Candidate type="Path">
+					<Value>AudioRecordUserControl.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientDetailsUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/ClientDetailsUserControl.xbf">
+				<Candidate type="Path">
+					<Value>ClientDetailsUserControl.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ContractConfirmationPage.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/ContractConfirmationPage.xbf">
+				<Candidate type="Path">
+					<Value>ContractConfirmationPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Edatalia_signplyRT.xr.xml" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Edatalia_signplyRT.xr.xml">
+				<Candidate type="Path">
+					<Value>Edatalia_signplyRT.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InitPage.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/InitPage.xbf">
+				<Candidate type="Path">
+					<Value>InitPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LanguageSettingsFlyout.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/LanguageSettingsFlyout.xbf">
+				<Candidate type="Path">
+					<Value>LanguageSettingsFlyout.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogoSettingsFlyout.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/LogoSettingsFlyout.xbf">
+				<Candidate type="Path">
+					<Value>LogoSettingsFlyout.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceContractDataUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/ServiceContractDataUserControl.xbf">
+				<Candidate type="Path">
+					<Value>ServiceContractDataUserControl.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceContractPage.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/ServiceContractPage.xbf">
+				<Candidate type="Path">
+					<Value>ServiceContractPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="background.jpg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/background.jpg">
+					<Candidate type="Path">
+						<Value>Assets\background.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background1.jpg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/background1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\background1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="button_black_stop.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/button_black_stop.png">
+					<Candidate type="Path">
+						<Value>Assets\button_black_stop.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cancel.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/cancel.png">
+					<Candidate type="Path">
+						<Value>Assets\cancel.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="edatalia.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/edatalia.png">
+					<Candidate type="Path">
+						<Value>Assets\edatalia.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="edataliaVertical.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/edataliaVertical.png">
+					<Candidate type="Path">
+						<Value>Assets\edataliaVertical.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="enterpriseLogo.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/enterpriseLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\enterpriseLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KNV29.jpg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/KNV29.jpg">
+					<Candidate type="Path">
+						<Value>Assets\KNV29.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo1.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/logo1.png">
+					<Candidate type="Path">
+						<Value>Assets\logo1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo2.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/logo2.png">
+					<Candidate type="Path">
+						<Value>Assets\logo2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logoBilbao.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/logoBilbao.png">
+					<Candidate type="Path">
+						<Value>Assets\logoBilbao.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="microphone.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/microphone.png">
+					<Candidate type="Path">
+						<Value>Assets\microphone.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="recordingBackground.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/recordingBackground.png">
+					<Candidate type="Path">
+						<Value>Assets\recordingBackground.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Temp.jpg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/Temp.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Temp.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tick.png" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Assets/tick.png">
+					<Candidate type="Path">
+						<Value>Assets\tick.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Ayuntamiento">
+				<NamedResource name="CitizenDetailsUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/CitizenDetailsUserControl.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\CitizenDetailsUserControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FillDataPage.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/FillDataPage.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\FillDataPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InitPageAuthorizedCitizen.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/InitPageAuthorizedCitizen.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\InitPageAuthorizedCitizen.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InitPageAyuntamiento.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/InitPageAyuntamiento.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\InitPageAyuntamiento.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShortCitizenDetailsUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/ShortCitizenDetailsUserControl.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\ShortCitizenDetailsUserControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ucRequestDetailsUserControl.xbf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/Ayuntamiento/ucRequestDetailsUserControl.xbf">
+					<Candidate type="Path">
+						<Value>Ayuntamiento\ucRequestDetailsUserControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DocTemplates">
+				<NamedResource name="Ayto_Bilbao_instancia_I2.docx" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/DocTemplates/Ayto_Bilbao_instancia_I2.docx">
+					<Candidate type="Path">
+						<Value>DocTemplates\Ayto_Bilbao_instancia_I2.docx</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ExternalDll">
+				<NamedResource name="Syncfusion.DocIO.WinRT.dll" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Files/ExternalDll/Syncfusion.DocIO.WinRT.dll">
+					<Candidate type="Path">
+						<Value>ExternalDll\Syncfusion.DocIO.WinRT.dll</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AddItemmsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/AddItemmsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Add items</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="prueba" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/prueba">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>prueba</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strApiKeyConf" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strApiKeyConf">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Set the ApiKey in the app's Settings section</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strAttached" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strAttached">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Attached items:</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strAudioAttached" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strAudioAttached">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Audio aceptance attached</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strAudioAttachedMissing" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strAudioAttachedMissing">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Audio aceptance missing</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strCloseMsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strCloseMsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Close</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDBConnectionErrormsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDBConnectionErrormsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Database connection stablisment difficulties</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDiscardQuestion" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDiscardQuestion">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Do you want to discard the actual process and restart again?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDNI" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDNI">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ID Card Number</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDNIFormatErrormsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDNIFormatErrormsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Insert a valid DNI format (capital letter)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDNIPhotoAttached" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDNIPhotoAttached">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ID Card photo attached</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strDNIPhotoAttachedMissing" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strDNIPhotoAttachedMissing">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ID Card photo missing</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strError" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Error</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strFillData" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strFillData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Fill the following data with valid format:</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strFirstSurname" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strFirstSurname">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>First Surname</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strGetStorageItemException" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strGetStorageItemException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>GetStorageItemsAsync error</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strImporte" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strImporte">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Amount</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strLanguageSettings" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strLanguageSettings">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Language settings</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strMsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strMsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value/>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strName" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Name</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strNo" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strNo">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strNoCitizen" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strNoCitizen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No citizen with this ID Card number, fill all data</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strNoClient" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strNoClient">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No client with this ID Card number, fill all data</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strNoSign" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strNoSign">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There is no signature to save</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strNotClient" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strNotClient">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No client with this ID Card number, fill all data</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strPDFCreationErrormsg" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strPDFCreationErrormsg">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The pdf file could not be created, try again restarting the app</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strPDFLoadException" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strPDFLoadException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The contract pdf could not be loaded</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strPhotoAttached" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strPhotoAttached">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client photo attached</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strPhotoAttachedMissing" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strPhotoAttachedMissing">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Client photo missing</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strRestartChangeDemo" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strRestartChangeDemo">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Restart the app to change of demo</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strResumen" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strResumen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Abstract</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strSecondSurname" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strSecondSurname">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Segundo apellido</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strSettings" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strSettings">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Settings</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strSignHere" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strSignHere">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sign here</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strSigninProcessError" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strSigninProcessError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Errors during the signin process. The app will exit. Restart and try again. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strTelephone" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strTelephone">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Teléfono</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strValidateSign" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strValidateSign">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Validate signature</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strYes" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strYes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Yes</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="strZipSaved" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/strZipSaved">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The zip package with all data has been saved</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="appbtnCancelSign">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnCancelSign/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Clean signature</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnConfirm">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnConfirm/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Confirm request</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnDNIPhoto">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnDNIPhoto/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add DNI</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnOpen">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnOpen/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select model</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnOperationCancel">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnOperationCancel/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel operation</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnPhoto">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnPhoto/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Attach photo</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnPosSize">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnPosSize/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Validate position and size</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnRecordVoice">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnRecordVoice/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Record</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnRestart">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnRestart/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Restart signature</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSave">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSave/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Save signed file</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSaveAuthCitizen">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSaveAuthCitizen/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Update data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSaveCitizen">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSaveCitizen/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Generate request</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSaveClient">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSaveClient/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Update data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSaveReqCitizen">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSaveReqCitizen/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Update data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnSign">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnSign/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appbtnValidate">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/appbtnValidate/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Validate signature</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btGenerateContract">
+				<NamedResource name="Label" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/btGenerateContract/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Generate contract</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btSelectBackground">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/btSelectBackground/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btSelectLogo">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/btSelectLogo/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="cbhBankAttached">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/cbhBankAttached/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Direct debit data attached</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="cbhDocumentAttached">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/cbhDocumentAttached/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Documents attached</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="cbhWritingAttached">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/cbhWritingAttached/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Writting attached</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="chbAuthorized">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/chbAuthorized/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add Representative / Authorized person data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="chbConfidentialTems">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/chbConfidentialTems/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>I accept privacy terms</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="dtPcikerClientBornDate">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/dtPcikerClientBornDate/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Born date</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="dtPicker">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/dtPicker/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start date</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="dtPickerInitDate">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/dtPickerInitDate/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start date</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="dtPickerSvc">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/dtPickerSvc/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start date</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="lbCommunicationLanguage">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/lbCommunicationLanguage/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Communication language</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="rbtAyuntamietno">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/rbtAyuntamietno/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Demo Bilbao City Council</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="rbtSeguros">
+				<NamedResource name="Content" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/rbtSeguros/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Demo insurance company</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="searchBox">
+				<NamedResource name="PlaceholderText" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/searchBox/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search client by ID Card (DNI)</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="searchBoxAuthorized">
+				<NamedResource name="PlaceholderText" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/searchBoxAuthorized/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search representative/authorized person data (DNI)</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="searchBoxCitizen">
+				<NamedResource name="PlaceholderText" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/searchBoxCitizen/PlaceholderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search citizen by ID Card (DNI)</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbAdmin">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbAdmin/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Destination Administration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbAdminUnit">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbAdminUnit/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Destination Administrative Unit</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbApiKey">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbApiKey/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Pdf Converter ApiKey</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbAuthorizedData">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbAuthorizedData/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Representative/Authorized person data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbAuthorizedPersonData">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbAuthorizedPersonData/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Representative/Authorized person data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbBackground">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbBackground/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Background</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbBackgroundDesc">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbBackgroundDesc/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select app background</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCause">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCause/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Request cause</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbChangeOrientation">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbChangeOrientation/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Change tablet orientation to continue with the signin process</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenBis">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenBis/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bis</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenCity">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenCity/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>City</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenCountry">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenCountry/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Country, Province, Historic Territory</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenDNI">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenDNI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ID Card number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenDoor">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenDoor/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Door</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenEmail">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenEmail/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Email</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenFirstName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenFirstName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>First surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenFloor">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenFloor/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Floor</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenHand">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenHand/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hand</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenMobilePhone">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenMobilePhone/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mobile phone</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name, company name or company name of the Entity</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenNationality">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenNationality/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Nationality</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenNumber">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenNumber/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenPassport">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenPassport/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Passport number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenPhone">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenPhone/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Telephone</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenPostalCode">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenPostalCode/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Postal code</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenSecondName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenSecondName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Second surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenShortDNI">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenShortDNI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ID Card, Foreign Resident Identification Number, VAT Number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenShortFirstName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenShortFirstName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>First surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenShortName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenShortName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name, company name or company name of the Entity</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenShortSecondName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenShortSecondName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Second surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenStaircase">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenStaircase/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Staircase</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbCitizenStreet">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbCitizenStreet/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Street</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientDNI">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientDNI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ID Card number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientDNIConf">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientDNIConf/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ID Card number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientEmail">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientEmail/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Email</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientFirstName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientFirstName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>First surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientFirstNameConf">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientFirstNameConf/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>First surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientNameConf">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientNameConf/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientNumeroCuenta">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientNumeroCuenta/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Account number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientPhone">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientPhone/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Telephone</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientSecondName">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientSecondName/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Second surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbClientSecondNameConf">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbClientSecondNameConf/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Second surname</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbConf">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbConf/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Request confirmation</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbDepartment">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbDepartment/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Destination Area/Department </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbExpedientNumber">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbExpedientNumber/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Expedient number</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbImporte">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbImporte/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Amount</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbImporte/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value/>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbImporteSvc">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbImporteSvc/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Amount</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbLicencePlate">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbLicencePlate/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>License plate</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tblNotCitizen">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tblNotCitizen/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No citizen with this ID Card number, fill all data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tblNotCitizenAuthorized">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tblNotCitizenAuthorized/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No citizen with this ID Card number, fill all data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tblNotClient">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tblNotClient/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No client with this ID Card number, fill all data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbLogoConf">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbLogoConf/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Logo settings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbLogoConfDesc">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbLogoConfDesc/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select the app logo to show in the app header section</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tblRestart">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tblRestart/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Restart the app to apply changes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tblRestartBackground">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tblRestartBackground/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Restart the app to apply changes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbNotes">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbNotes/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Notes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbOposition">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbOposition/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Oposition</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbRequester">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbRequester/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Requester data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbRequesterData">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbRequesterData/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Requester data</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbSelectDemo">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbSelectDemo/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select demo</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbSelectDemoDesc">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbSelectDemoDesc/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select demo Insurance company / Bilbao City Council</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbService">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbService/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Service name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbSignHere">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbSignHere/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign here</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbSignHereVertical">
+				<NamedResource name="Text" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbSignHereVertical/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign here</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="tbSubject">
+				<NamedResource name="Header" uri="ms-resource://3022db98-afb6-4c9c-9153-21d964781953/Resources/tbSubject/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Subject</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

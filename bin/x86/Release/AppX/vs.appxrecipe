@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ETIC-LAPTOP-13</Machine>
+    <WindowsUser>agomez</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3022db98-afb6-4c9c-9153-21d964781953</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>39B2D13E1130994DD585D86F4437C289BCAD3836658481429AB56FB8635E6365</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3022db98-afb6-4c9c-9153-21d964781953_2.0.0.7_x86__a6xmkfdj4czm2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3022db98-afb6-4c9c-9153-21d964781953_a6xmkfdj4czm2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3022db98-afb6-4c9c-9153-21d964781953</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=agomez</RegisteredPackagePublisher>
+    <RegisteredVersion>2.0.0.7</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-17T09:21:56.920</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Edatalia_signplyRT.exe">
+      <PackagePath>Edatalia_signplyRT.exe</PackagePath>
+      <Modified>2014-12-17T09:21:51.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-10-22T09:04:24.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\ExternalDll\Syncfusion.DocIO.WinRT.dll">
+      <PackagePath>Syncfusion.DocIO.WinRT.dll</PackagePath>
+      <Modified>2014-10-22T09:04:03.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Release\PdfViewModel\PdfViewModel.dll">
+      <PackagePath>PdfViewModel.dll</PackagePath>
+      <Modified>2014-12-17T09:21:47.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Release\PdfViewModel\PdfViewModel.winmd">
+      <PackagePath>PdfViewModel.winmd</PackagePath>
+      <Modified>2014-12-17T09:21:47.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\DocTemplates\Ayto_Bilbao_instancia_I2.docx">
+      <PackagePath>DocTemplates\Ayto_Bilbao_instancia_I2.docx</PackagePath>
+      <Modified>2014-10-31T11:49:09.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+      <Modified>2014-10-22T09:03:42.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\background1.jpg">
+      <PackagePath>Assets\background1.jpg</PackagePath>
+      <Modified>2014-10-22T09:03:46.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\KNV29.jpg">
+      <PackagePath>Assets\KNV29.jpg</PackagePath>
+      <Modified>2014-10-30T16:17:24.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\Temp.jpg">
+      <PackagePath>Assets\Temp.jpg</PackagePath>
+      <Modified>2014-10-22T09:03:43.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\button_black_stop.png">
+      <PackagePath>Assets\button_black_stop.png</PackagePath>
+      <Modified>2014-10-22T09:03:42.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\cancel.png">
+      <PackagePath>Assets\cancel.png</PackagePath>
+      <Modified>2014-10-22T09:03:42.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\edatalia.png">
+      <PackagePath>Assets\edatalia.png</PackagePath>
+      <Modified>2014-10-22T09:03:42.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\edataliaVertical.png">
+      <PackagePath>Assets\edataliaVertical.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\enterpriseLogo.png">
+      <PackagePath>Assets\enterpriseLogo.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-22T09:03:43.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\logo1.png">
+      <PackagePath>Assets\logo1.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\logo2.png">
+      <PackagePath>Assets\logo2.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\logoBilbao.png">
+      <PackagePath>Assets\logoBilbao.png</PackagePath>
+      <Modified>2014-10-31T11:49:09.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\microphone.png">
+      <PackagePath>Assets\microphone.png</PackagePath>
+      <Modified>2014-10-22T09:03:42.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\recordingBackground.png">
+      <PackagePath>Assets\recordingBackground.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-22T09:03:43.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-31T15:21:01.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-22T09:03:43.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\Assets\tick.png">
+      <PackagePath>Assets\tick.png</PackagePath>
+      <Modified>2014-10-22T09:03:43.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\ExternalDll\Syncfusion.DocIO.WinRT.dll">
+      <PackagePath>ExternalDll\Syncfusion.DocIO.WinRT.dll</PackagePath>
+      <Modified>2014-10-22T09:04:03.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\AudioRecordUserControl.xbf">
+      <PackagePath>AudioRecordUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\CitizenDetailsUserControl.xbf">
+      <PackagePath>Ayuntamiento\CitizenDetailsUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\FillDataPage.xbf">
+      <PackagePath>Ayuntamiento\FillDataPage.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\InitPageAuthorizedCitizen.xbf">
+      <PackagePath>Ayuntamiento\InitPageAuthorizedCitizen.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\InitPageAyuntamiento.xbf">
+      <PackagePath>Ayuntamiento\InitPageAyuntamiento.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\ShortCitizenDetailsUserControl.xbf">
+      <PackagePath>Ayuntamiento\ShortCitizenDetailsUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Ayuntamiento\ucRequestDetailsUserControl.xbf">
+      <PackagePath>Ayuntamiento\ucRequestDetailsUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\ClientDetailsUserControl.xbf">
+      <PackagePath>ClientDetailsUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\ContractConfirmationPage.xbf">
+      <PackagePath>ContractConfirmationPage.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\InitPage.xbf">
+      <PackagePath>InitPage.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\LanguageSettingsFlyout.xbf">
+      <PackagePath>LanguageSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\LogoSettingsFlyout.xbf">
+      <PackagePath>LogoSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\ServiceContractDataUserControl.xbf">
+      <PackagePath>ServiceContractDataUserControl.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\ServiceContractPage.xbf">
+      <PackagePath>ServiceContractPage.xbf</PackagePath>
+      <Modified>2014-12-17T09:21:51.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\Edatalia_signplyRT.xr.xml">
+      <PackagePath>Edatalia_signplyRT.xr.xml</PackagePath>
+      <Modified>2014-12-17T09:21:51.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-17T09:21:53.264</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

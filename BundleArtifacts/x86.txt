@@ -1,0 +1,4 @@
+MainPackage=C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Debug\Edatalia_signplyRT_2.0.0.15_Bundle\Edatalia_signplyRT_2.0.0.15_x86_Debug.appx
+SymbolPackage=C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\AppPackages\Edatalia_signplyRT_2.0.0.15_Debug_Test\Edatalia_signplyRT_2.0.0.15_x86_Debug.appxsym
+ResourcePack=C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Debug\Edatalia_signplyRT_2.0.0.15_Bundle\Edatalia_signplyRT_2.0.0.15_language-es.appx
+ResourcePack=C:\Users\agomez.ETIC\Documents\Visual Studio 2013\Projects\Edatalia_signplyRT\Edatalia_signplyRT\bin\x86\Debug\Edatalia_signplyRT_2.0.0.15_Bundle\Edatalia_signplyRT_2.0.0.15_language-eu.appx

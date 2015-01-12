@@ -1,0 +1,51 @@
+﻿<UserControl
+    x:Class="Edatalia_signplyRT.ClientDetailsUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Edatalia_signplyRT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400"
+    xmlns:common="using:Edatalia_signplyRT.Converters">
+    
+    <UserControl.Resources>
+        <common:DateTimeToDateTimeOffsetConverter x:Key="DateTimeToDateTimeOffsetConverter"/>
+    </UserControl.Resources>
+    
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="tbClientName" Header="Nombre" Text="{Binding Name, Mode=TwoWay}"></TextBox>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbClientFirstName" Text="{Binding FirstName, Mode=TwoWay}" Grid.Column="0"  Header="Primer Apellido"></TextBox>
+                <TextBox x:Name="tbClientSecondName" Text="{Binding SecondName, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Segundo Apellido"></TextBox>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbClientDNI" Text="{Binding DNI, Mode=TwoWay}" Grid.Column="0"  Header="DNI"></TextBox>
+                <DatePicker x:Name="dtPcikerClientBornDate" Margin="10,0,0,0" Grid.Column="1" Date="{Binding BornDate, Mode=TwoWay, Converter={StaticResource DateTimeToDateTimeOffsetConverter}}" Header="FechaNacimiento" DayFormat="day" MonthFormat="{}{month.solo.abbreviated(3)}" YearFormat="{}{year.full}" YearVisible="True"></DatePicker>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="tbClientEmail" Text="{Binding Mail, Mode=TwoWay}"  Grid.Column="0"  Header="Email" InputScope="EmailSmtpAddress"></TextBox>
+                <TextBox x:Name="tbClientPhone" Text="{Binding Telephone, Mode=TwoWay}" Margin="10,0,0,0" Grid.Column="1" Header="Teléfono" InputScope="TelephoneNumber"></TextBox>
+            </Grid>
+            <TextBox x:Name="tbClientNumeroCuenta" Header="Número de cuenta" InputScope="AlphanumericFullWidth"></TextBox>
+            <!--<Button x:Name="btSaveClient" Click="btSaveClient_Click" Content="Generar/Actualizar cliente" HorizontalAlignment="Right"></Button>-->
+            <!--<Button x:Name="btNext" HorizontalAlignment="Right" Margin="0,50,0,0" Click="btNext_Click" Visibility="Collapsed"></Button>-->
+        </StackPanel>
+
+    </Grid>
+</UserControl>
+
