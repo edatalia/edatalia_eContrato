@@ -1,4 +1,5 @@
 Bienvenido a eContrato
+
 eContrato es una solución que permite la generación y perfeccionamiento de contratos al vuelo desde dispositivos móviles con Sistema Operativo Win8. 
 
 Esta desarrollado como Win APP, en metro, y sus principales funcionalidades son el acceso a base de datos de clientes y contratos/ servicios, generación al vuelo del contrato y firma manuscrita del mismo.
@@ -6,6 +7,7 @@ Esta desarrollado como Win APP, en metro, y sus principales funcionalidades son 
 El presente proyecto trata de cubrir una necesidad detectada en el mercado mediante el diseño y desarrollo de un nuevo producto innovador en formato Win APP orientado a la firma de contratos en movilidad.
 
 Inicialmente realizaremos una introducción al proceso de proceso de firma de contratos habituales. Para ello, partimos de dos premisas básicas:
+
 1.- El perfeccionamiento de cualquier contrato privado requiere recabar la aceptación expresa de las partes a su contenido. Habitualmente, se realiza mediante la firma manuscrita de contratos en papel.
 2.- La normativa actual también permite el perfeccionamiento de contratos mediante otras vías, como por ejemplo de manera verbal.
 
