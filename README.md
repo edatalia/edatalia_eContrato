@@ -14,4 +14,7 @@ Cuando la firma del contrato se realiza de forma remota, como el alta en una com
 
 También es habitual que un agente comercial nos asesore y venda un producto o servicio en cualquier ubicación, como en una feria de muestras o un aeropuerto, lo que requiere un gran trasiego de papeles que genera grandes ineficiencias y costes al proceso de contratación.
 
-Edatalia, por el Know – How adquirido en los últimos años con todas las tecnologías y procesos relativos a la firma digital, tras una labor de prospección y una detección de demanda alta por parte del mercado, plantea el diseño y desarrollo de una aplicación destinada a los dispositivos móviles en formato de APP que pretende facilitar todo el proceso de firma de contratos en movilidad minorando los tiempos de gestión de los contratos y minorando el uso de papel en el proceso.
+edatalia, por el know–how adquirido en los últimos años con todas las tecnologías y procesos relativos a la firma digital, tras una labor de prospección y una detección de demanda alta por parte del mercado, plantea el diseño y desarrollo de una aplicación destinada a los dispositivos móviles en formato de APP que pretende facilitar todo el proceso de firma de contratos en movilidad minorando los tiempos de gestión de los contratos y minorando el uso de papel en el proceso.
+
+edatalia data solutions es una empresa especializada en el diseño y desarrollo de soluciones de firma electrónica avanzada. Entre este tipo de soluciones, destacan los sistemas de firma digital manuscrita con validez legal.
+Para más información, puede acceder a www.edatalia.com
